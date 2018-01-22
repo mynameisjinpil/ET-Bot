@@ -1,0 +1,12 @@
+1-T-Excellent!
+1-F-Wow!
+2-T-It's okay.
+2-F-As a sentence!
+3-T-Good, but don't repeat the verb.
+3-F-You don't need to repeat the verb though.
+4-T-Say don't, not do not.
+4-F-The shorter, the better!
+5-T-Sorry, I can't get it.
+5-F-Try again.
+6-T-Say something.
+6-F-I can't hear you.

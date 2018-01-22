@@ -1,0 +1,7 @@
+block content
+    h1= title
+    p Please load only '.txt' file. not '.doc', '.hwp'
+    br
+    form(action='upload_feedback' method='post' enctype="multipart/form-data")
+        input(type='file' name='userfile')
+        input(type='submit')
